@@ -26,10 +26,9 @@ body{
 }
 
 .sabout a{
-  padding: 10px;
+  padding: 11px;
   font-size: 20px;
   width: 20px;
-  text-align: center;
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
@@ -172,7 +171,7 @@ body{
 .btn {
   border: none;
   outline: none;
-  padding: 12px 16px;
+  padding: 10px 14px;
   background-color: green;
   cursor: pointer;
   border-radius: 5px 5px 5px 5px;
